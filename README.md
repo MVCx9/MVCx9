@@ -24,7 +24,7 @@ Hello there, I'm Miguel Valadez!
 # 🤝 Connect with me
 
 <div align=center>
-<a href="www.linkedin.com/in/miguel-valadez-cano/">
+<a href="https://www.linkedin.com/in/miguel-valadez-cano/">
 	<img src="https://skillicons.dev/icons?i=linkedin" alt="LINKEDIN">
 </a>
 <a href="mailto:miguelvdezc@gmail.com?subject=Hello%20Miguel,%20From%20Github">
