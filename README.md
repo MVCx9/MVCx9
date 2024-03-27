@@ -10,9 +10,9 @@ Hello there, I'm Miguel Valadez!
 
 <pre>
 👨🏻‍💻 I'm currently working at <a href="https://www.linkedin.com/company/viewnext/">VIEWNEXT</a> where I work developing software!
-📚 I have a Bachelors in Computer Science from the University of Zaragoza
+📚 I'm studying a Bacherlors in Computer Engineer at the University of Málaga.
 🌱 I'm passionate developer and custom keyboards enjoyer.
-🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by creating new proyects.
+🏆 I'm striving to enhance my GitHub profile and knowledges with new proyects.
 🤠 Fun fact: I play computer games, workout at the gym, and sleep with my dog!
 </pre>
 </br>
