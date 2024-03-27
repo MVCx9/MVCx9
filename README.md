@@ -1,13 +1,12 @@
 <h1 align="center">
+Hello there, I'm Miguel Valadez!
 
-[![Hello there, I'm Miguel!](assets/header4.jpg)](https://github.com/MVCx9/)
-
+[(assets/header4.jpg)](https://github.com/MVCx9/)
 </h1>
 
 <p align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Back+End+Developer;%20Java%20|%20Spring%%20|%20Node;Learn%20new%20things%20from%20everywhere&center=true&width=380&height=45">
 </p>
-</br>
 
 <pre>
 👨🏻‍💻 I'm currently working at [VIEWNEXT](https://www.linkedin.com/company/viewnext/) where I work developing software!
@@ -16,15 +15,15 @@
 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by creating new proyects.
 🤠 Fun fact: I play computer games, workout at the gym, and sleep with my dog!
 </pre>
-</br>
+
 
 # 🤝 Connect with me
 
+<p align="center">
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/miguel-valadez-cano/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:miguelvdezc@gmail.com?subject=Hello%20Miguel,%20From%20Github)
+</p>
 
-
-<div align="center">
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -77,10 +76,11 @@
     
 </p>
 </br>
-## 🏆 My Stats:
+
+# 🏆 My Stats:
 
 <p>
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVCx9&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVCx9&layout=compact&theme=dark"/>&nbsp;&nbsp;
 </p>
 
 </div>
