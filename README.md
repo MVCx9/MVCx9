@@ -8,14 +8,13 @@ Hello there, I'm Miguel Valadez!
 </a>
 </br>
 
-<pre>
-👨🏻‍💻 I'm currently working at <a href="https://www.linkedin.com/company/viewnext/" target="_blank">VIEWNEXT</a> where I work developing software!
-📚 I'm studying a Bacherlors in Computer Engineer at the University of Málaga.
-🌱 I'm passionate developer and custom keyboards enjoyer.
-🏆 I'm striving to enhance my GitHub profile and knowledges with new proyects.
-🤠 Fun fact: I play computer games, workout at the gym, and sleep with my dog!
+<pre syle="wrap">
+	👨🏻‍💻 I'm currently working at <a href="https://www.linkedin.com/company/viewnext/" target="_blank">VIEWNEXT</a> where I work developing software!
+	📚 I'm studying a Bacherlors in Computer Engineer at the University of Málaga.
+	🌱 I'm trying to become a decent developer.
+	🏆 I'm striving to enhance my GitHub profile and knowledge with new proyects.
+	🤠 Fun fact: I play computer games, workout at the gym, and I'm custom keyboard enjoyer!.
 </pre>
-</br>
 
 <p align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Back+End+Developer;%20Java%20|%20Spring%20|%20Node;Learn%20new%20things%20from%20everywhere&center=true&width=380&height=45">
@@ -23,7 +22,7 @@ Hello there, I'm Miguel Valadez!
 
 # 🤝 Connect with me
 
-<div align=center>
+<div align="center">
 <a href="https://www.linkedin.com/in/miguel-valadez-cano/" target="_blank">
 	<img src="https://skillicons.dev/icons?i=linkedin" alt="LINKEDIN">
 </a>
