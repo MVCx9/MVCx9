@@ -1,30 +1,37 @@
 <h1 align="center">
 Hello there, I'm Miguel Valadez!
-
-[(assets/header4.jpg)](https://github.com/MVCx9/)
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
-<p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Back+End+Developer;%20Java%20|%20Spring%%20|%20Node;Learn%20new%20things%20from%20everywhere&center=true&width=380&height=45">
-</p>
+<a href="https://github.com/MVCx9">
+	<img src="assets/header4.jpg" alt="HEADEr">
+</a>
+</br>
 
 <pre>
-👨🏻‍💻 I'm currently working at [VIEWNEXT](https://www.linkedin.com/company/viewnext/) where I work developing software!
+👨🏻‍💻 I'm currently working at <a href="https://www.linkedin.com/company/viewnext/">VIEWNEXT</a> where I work developing software!
 📚 I have a Bachelors in Computer Science from the University of Zaragoza
 🌱 I'm passionate developer and custom keyboards enjoyer.
 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by creating new proyects.
 🤠 Fun fact: I play computer games, workout at the gym, and sleep with my dog!
 </pre>
+</br>
 
+<p align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Back+End+Developer;%20Java%20|%20Spring%20|%20Node;Learn%20new%20things%20from%20everywhere&center=true&width=380&height=45">
+</p>
 
 # 🤝 Connect with me
 
-<p align="center">
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/miguel-valadez-cano/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:miguelvdezc@gmail.com?subject=Hello%20Miguel,%20From%20Github)
-</p>
-
-
+<div align=center>
+<a href="www.linkedin.com/in/miguel-valadez-cano/">
+	<img src="https://skillicons.dev/icons?i=linkedin" alt="LINKEDIN">
+</a>
+<a href="mailto:miguelvdezc@gmail.com?subject=Hello%20Miguel,%20From%20Github">
+	<img src="https://skillicons.dev/icons?i=gmail" alt="MAIL">
+</a>
+</div>
+	
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
@@ -58,7 +65,7 @@ Hello there, I'm Miguel Valadez!
 
     <br/>
 
-- 💻 Version Controls & CI/CD
+- 📡 Version Controls & CI/CD
 
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff">
@@ -71,7 +78,7 @@ Hello there, I'm Miguel Valadez!
 - 💻 IDEs and Tools
 
     <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-    <img alt="Intellij" src="https://img.shields.io/badge/IntelliJ%20IDEA-000?style=for-the-badge&logo=intellijidea&logoColor=fff">
+    <img alt="Intellij" src="https://img.shields.io/badge/IntelliJ%20IDEA-000?style=for-the-badge&logo=intellijidea&logoColor=fff&color=purple">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     
 </p>
@@ -79,8 +86,7 @@ Hello there, I'm Miguel Valadez!
 
 # 🏆 My Stats:
 
-<p>
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVCx9&layout=compact&theme=dark"/>&nbsp;&nbsp;
-</p>
-
+<div align="center">
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MVCx9&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVCx9&layout=compact&theme=dark" />&nbsp;&nbsp;
 </div>
