@@ -9,7 +9,7 @@ Hello there, I'm Miguel Valadez!
 </br>
 
 <pre>
-👨🏻‍💻 I'm currently working at <a href="https://www.linkedin.com/company/viewnext/">VIEWNEXT</a> where I work developing software!
+👨🏻‍💻 I'm currently working at <a href="https://www.linkedin.com/company/viewnext/" target="_blank">VIEWNEXT</a> where I work developing software!
 📚 I'm studying a Bacherlors in Computer Engineer at the University of Málaga.
 🌱 I'm passionate developer and custom keyboards enjoyer.
 🏆 I'm striving to enhance my GitHub profile and knowledges with new proyects.
@@ -24,10 +24,10 @@ Hello there, I'm Miguel Valadez!
 # 🤝 Connect with me
 
 <div align=center>
-<a href="https://www.linkedin.com/in/miguel-valadez-cano/">
+<a href="https://www.linkedin.com/in/miguel-valadez-cano/" target="_blank">
 	<img src="https://skillicons.dev/icons?i=linkedin" alt="LINKEDIN">
 </a>
-<a href="mailto:miguelvdezc@gmail.com?subject=Hello%20Miguel,%20From%20Github">
+<a href="mailto:miguelvdezc@gmail.com?subject=Hello%20Miguel,%20from%20Github">
 	<img src="https://skillicons.dev/icons?i=gmail" alt="MAIL">
 </a>
 </div>
