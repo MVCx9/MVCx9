@@ -9,11 +9,11 @@ Hello there, I'm Miguel Valadez!
 </br>
 
 <pre syle="wrap">
-	👨🏻‍💻 I'm currently working at <a href="https://www.linkedin.com/company/viewnext/" target="_blank">VIEWNEXT</a> where I work developing software!
-	📚 I'm studying a Bacherlors in Computer Engineer at the University of Málaga.
+	👨🏻‍💻 I'm currently working at <a href="https://www.linkedin.com/company/viewnext/" target="_blank">VIEWNEXT</a> where my main task is developing software!
+	📚 I'm studying a Bacherlors in Computer Engineering at the University of Málaga.
 	🌱 I'm trying to become a decent developer.
 	🏆 I'm striving to enhance my GitHub profile and knowledge with new proyects.
-	🤠 Fun fact: I play computer games, workout at the gym, and I'm custom keyboard enjoyer!.
+	🤠 Fun fact: I play computer games, workout at the gym, and I'm a custom keyboard enjoyer!.
 </pre>
 
 <p align="center">
