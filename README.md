@@ -6,7 +6,12 @@ Hello there, I'm Miguel Valadez!
 <a href="https://github.com/MVCx9">
 	<img src="assets/header4.jpg" alt="HEADEr">
 </a>
+
 </br>
+
+<div align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=60&pause=1000&color=00F726&center=true&vCenter=true&random=false&width=800&height=100&lines=Computer+Engineering+Student;Back+End+Developer;Java+%7C+Spring+%7C+Node;What+do+we+develop+today%3F" alt="Typing SVG" /></a>
+</div>
 
 <pre syle="wrap">
 	👨🏻‍💻 I'm currently working at <a href="https://www.linkedin.com/company/viewnext/" target="_blank">VIEWNEXT</a> where my main task is developing software!
@@ -15,10 +20,6 @@ Hello there, I'm Miguel Valadez!
 	🏆 I'm striving to enhance my GitHub profile and knowledge with new proyects.
 	🤠 Fun fact: I play computer games, workout at the gym, and I'm a custom keyboard enjoyer!.
 </pre>
-
-<p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Back+End+Developer;%20Java%20|%20Spring%20|%20Node;Learn%20new%20things%20from%20everywhere&center=true&width=380&height=45">
-</p>
 
 # 🤝 Connect with me
 
