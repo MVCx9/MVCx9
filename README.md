@@ -84,9 +84,16 @@ Hello there, I'm Miguel Valadez!
 </p>
 </br>
 
-# 🏆 My Stats:
+<h1> <img src="assets/stats.gif" height="30"> My Stats: </h1>
 
 <div align="center">
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MVCx9&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVCx9&layout=compact&theme=dark" />&nbsp;&nbsp;
+	<a href="https://github.com/MVCx9">
+	    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MVCx9&rank_icon=github&bg_color=00000000&include_all_commits=true&show_icons=true&hide=contribs" />
+	</a>
+</div>
+
+<div align="center">
+	<a href="https://github.com/MVCx9">
+	    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVCx9&layout=compact&bg_color=00000000" />
+	</a>
 </div>
