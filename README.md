@@ -40,8 +40,9 @@ Hello there, I'm Miguel Valadez!
     
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?style=for-the-badge&logo=java-colorful">
+    <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-00599C?logo=kotlin&logoColor=white&style=for-the-badge">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt="Shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 
