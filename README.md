@@ -10,7 +10,7 @@ Hello there, I'm Miguel Valadez!
 </br>
 
 <div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=60&pause=1000&color=00F726&center=true&vCenter=true&random=false&width=800&height=100&lines=Computer+Engineering+Student;Back+End+Developer;Java+%7C+Spring+%7C+Node;What+do+we+develop+today%3F" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=60&pause=1000&color=00F726&center=true&vCenter=true&random=false&width=800&height=100&lines=Computer+Engineer;Back+End+Developer;Java+%7C+Spring+%7C+Node;What+do+we+develop+today%3F" alt="Typing SVG" /></a>
 </div>
 
 <pre syle="wrap">
@@ -63,7 +63,8 @@ Hello there, I'm Miguel Valadez!
  
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
+    
     <br/>
 
 - 📡 Version Controls & CI/CD
@@ -87,14 +88,14 @@ Hello there, I'm Miguel Valadez!
 
 <h1> <img src="assets/stats.gif" height="30"> My Stats: </h1>
 
-<div align="center">
-	<a href="https://github.com/MVCx9">
-	    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MVCx9&rank_icon=github&bg_color=00000000&include_all_commits=true&show_icons=true&hide=contribs" />
-	</a>
-</div>
+<a href="https://github.com/MVCx9">
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MVCx9&rank_icon=github&bg_color=00000000&include_all_commits=true&show_icons=true&hide=contribs&custom_title=MVCx9's+github+metrics" />
+</a>
 
-<div align="center">
-	<a href="https://github.com/MVCx9">
-	    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVCx9&layout=compact&bg_color=00000000" />
-	</a>
-</div>
+<a href="https://github.com/MVCx9">
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVCx9&layout=compact&bg_color=00000000&locale=es" />
+</a>
+
+<br><br>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=MVCx9&label=Visitas+al+perfil"></p>
