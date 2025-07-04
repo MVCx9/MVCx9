@@ -93,7 +93,7 @@ Hello there, I'm Miguel Valadez!
 </a>
 
 <a href="https://github.com/MVCx9">
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVCx9&layout=compact&bg_color=00000000&locale=es" />
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVCx9&layout=compact&bg_color=00000000" />
 </a>
 
 <br><br>
