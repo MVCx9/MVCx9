@@ -15,9 +15,9 @@ Hello there, I'm Miguel Valadez!
 
 <pre syle="wrap">
 	👨🏻‍💻 I'm currently working at <a href="https://www.minsait.com/es" target="_blank">MINSAIT</a> where my main task is developing software!
-	📚 I'm studying a Bacherlors in Computer Engineering at the University of Málaga.
+	📚 I hold a Bachelor's degree in Computer Engineering from the University of Malaga.
 	🌱 I'm trying to become a decent developer.
-	🏆 I'm striving to enhance my GitHub profile and knowledge with new proyects.
+	🏆 I'm striving to enhance my knowledge with new proyects and use of AI.
 	🤠 Fun fact: I play computer games, workout at the gym, and I'm a custom keyboard enjoyer!.
 </pre>
 
